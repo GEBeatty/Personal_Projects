@@ -1,0 +1,72 @@
+Bitterling|900|River|Nov-Feb(All day)
+Pale Chub|160|River|Year-round(9am-4pm)
+Crucian Carp|120|River|Year-round, all day
+Dace|200|River|Year-round(4pm-9am)
+Barbel Steed|200|River|Year-round, all day
+Carp|300|River|Year-round, all day
+Koi|4,000|River|Year-round(4pm-9am)
+Goldfish|1,300|River|Year-round, all day
+Popeyed Goldfish|1,300|River|Year-round(9am-4pm)
+Killifish|240|Holding pond|Apr-Aug(All day)
+Crawfish|200|Holding pond|Apr-Sept(All day)
+Soft-Shelled Turtle|3,750|River|Aug-Sept(4pm-9am)
+Tadpole|100|Holding pond|Mar-Jul(All day)
+Frog|120|Holding pond|May-Aug(All day)
+Freshwater Goby|300|River|Year-round(4pm-9am)
+Loach|300|River|Mar-May(All day)
+Catfish|800|River pool|May-Oct(4pm-9am)
+Eel|2,000|River|Jun-Sept(4pm-9am)
+Giant Snakehead|5,500|River|Jun-Aug(9am-4pm)
+Bluegill|120|River|Year-round(4am-9pm)
+Yellow Perch|240|River|Oct-Mar(All day)
+Black bass|300|River|Year-round, all day
+Pike|1,800|River|Sept-Dec(4am-9pm)
+Pond Smelt|300|River|Dec-Feb(All day)
+Sweetfish|900|River|Jul-Sept(9am-4pm)
+Cherry Salmon|1,000|River|Mar-Jun(4am-9am, 4pm-9pm), Sept-Nov(9am-4pm)
+Char|3,800|Waterfall|Mar-Jun(4am-9am, 4pm-9pm), Sept-Nov(9am-4pm)
+Rainbow Trout|800|River|Mar-Jun(4am-9am, 4pm-9pm), Sept-Nov(9am-4pm)
+Stringfish|15,000|River|Dec-Feb(4pm-9am)
+Salmon|700|River, Ocean|Sept(All day)
+King Salmon|1,800|River mouth|Aug-Sept(All day)
+Mitten Crab|2,000|River|Sept-Nov(4pm-9am)
+Guppy|1,300|River|Apr-Nov(9am-4pm)
+Nibble Fish|1,200|River|May-Sept(9am-4pm)
+Angelfish|3,000|River|May-Oct(4pm-9am)
+Neon Tetra|500|River|Apr-Nov(9am-4pm)
+Piranha|2,500|River|Jun-Sept(9am-4pm, 9pm-4am)
+Arowana|10,000|River|Jun-Sept(4pm-9am)
+Dorado|15,000|River|Jun-Sept(4am-9pm)
+Gar|6,000|River pool|Jun-Sept(4pm-9am)
+Arapaima|10,000|River|Jul-Sept(4pm-9am)
+Saddled Bichir|4,000|River|Jun-Sept(9pm-4am)
+Sea Butterfly|1,000|Ocean|Dec-Feb(All day)
+Seahorse|1,100|Ocean, Tortimer Island|Apr-Nov(All day)
+Clownfish|650|Ocean, Tortimer Island|Apr-Sept(All day)
+Surgeonfish|1,000|Ocean, Tortimer Island|Apr-Sept, Dec(All day)
+Butterfly Fish|1,000|Ocean|Apr-Sept(All day)
+Napoleonfish|10,000|Ocean, Tortimer Island|Jul-Aug(All day)
+Zebra Turkeyfish|400|Ocean, Tortimer Island|Apr-Nov(All day)
+Blowfish|125|Ocean|Nov-Feb(9pm-4am)
+Puffer Fish|240|Ocean, Tortimer Island|Jul-Sept(All day)
+Horse Mackerel|150|Ocean|Year-round, all day
+Barred Knifejaw|5,000|Ocean, Tortimer Island|Mar-Nov(All day)
+Sea Bass|160|Ocean|Year-round, all day
+Red Snapper|3,000|Ocean|Year-round, all day
+Dab|300|Ocean|Oct-Apr(All day)
+Olive Flounder|800|Ocean|Year-round, all day
+Squid|400|Ocean, Tortimer Island|Dec-Aug(All day)
+Moray Eel|2,000|Ocean, Tortimer Island|Jun-Oct(All day)
+Ribbon Eel|600|Tortimer Island|Year-round, all day
+Football Fish|2,500|Ocean|Nov-Mar(4pm-9am)
+Tuna|7,000|Ocean|Nov-Mar(All day)
+Blue Marlin|10,000|Ocean, Tortimer Island|Jun-Sept(All day)
+Giant Trevally|4,500|Tortimer Island|Year-round, all day
+Ray|3,000|Ocean, Tortimer Island|Aug-Nov(4am-9pm)
+Ocean Sunfish|4,000|Ocean, Tortimer Island|Jun-Sept(4am-9pm)
+Hammerhead|8,000|Ocean, Tortimer Island|Jun-Sept(4pm-9am)
+Shark|15,000|Ocean, Tortimer Island|Jun-Sept(All day)
+Saw Shark|12,000|Ocean, Tortimer Island|Jun-Sept(4pm-9am)
+Whale Shark|13,000|Tortimer Island|Year-round, all day
+Oarfish|9,000|Ocean|Dec-May(All day)
+Coelacanth|15,000|Ocean|Year-round, 4pm-9am

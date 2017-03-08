@@ -1,0 +1,30 @@
+Seaweed|200|Ocean, Tortimer Island|Nov-Jul(All day)
+Sea Grapes|600|Ocean, Tortimer Island|Jun-Sept(All day)
+Sea Urchin|800|Ocean, Tortimer Island|May-Sept(All day)
+Acorn Barnacle|200|Ocean, Tortimer Island|Year-round, all day
+Oyster|400|Ocean|Sept-Feb(All day)
+Turban Shell|300|Ocean|Aug-May(4pm-9am)
+Abalone|400|Ocean, Tortimer Island|Year-round(4pm-9am)
+Ear Shell|300|Ocean, Tortimer Island|Year-round(4pm-9am)
+Clam|400|Ocean|Sept-Apr(All day)
+Pearl Oyster|1,600|Ocean|Year-round, all day
+Scallop|1,000|Ocean, Tortimer Island|Year-round, all day
+Sea Anemone|100|Ocean, Tortimer Island|Year-round, all day
+Sea Star|100|Ocean, Tortimer Island|Year-round, all day
+Sea Cucumber|150|Ocean|Nov-Apr(All day)
+Sea Slug|200|Ocean, Tortimer Island|Year-round, all day
+Flatworm|200|Ocean, Tortimer Island|Aug-Sept(4pm-9am)
+Mantis Shrimp|1,250|Ocean, Tortimer Island|Year-round(4pm-9am)
+Sweet Shrimp|650|Ocean|Sept-Feb(4pm-9am)
+Tiger Prawn|1,600|Ocean, Tortimer Island|Jun-Sept(4pm-9am)
+Spiny Lobster|3,000|Ocean|Sept-Dec(9pm-4am)
+Lobster|2,500|Ocean, Tortimer Island|Year-round, all day
+Snow Crab|4,000|Ocean|Nov-Apr(All day)
+Horsehair Crab|4,000|Ocean|Nov-Apr(All day)
+Red King Crab|6,000|Ocean|Nov-Mar(All day)
+Spider Crab|10,000|Ocean|Mar-Apr(All day)
+Octopus|1,000|Ocean, Tortimer Island|Sept-Jan, Mar-Jul(All day)
+Spotted Garden Eel|Ocean, Tortimer Island|Year-round, all day
+Chambered Nautilus|900|Ocean, Tortimer Island|Year-round, all day
+Horseshoe Crab|1,500|Ocean|Jul-Sept(9pm-4am)
+Giant Isopod|9,000|Ocean, Tortimer Island|Year-round, all day
